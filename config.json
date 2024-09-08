@@ -1,0 +1,19 @@
+{
+  "params": {
+    "local_uri": "mysql://root:@localhost/flask_db",
+    "prod_uri": "mysql://root:@localhost/flask_db",
+    "website_name": "Catchit",
+    "local_server": "True",
+    "fb_url": "https://facebook.com/catchit",
+    "tw_url": "https://twitter.com/catchit",
+    "gh_url": "https://github.com/catchit",
+    "tag_line": "A Heaven for Programmers",
+    "about_text": "Hi jnoiemvoieovmeoivmeroimeroimo noimfo n  kj  ormfoemfo refj feromfo efoe",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "Upload_folder": "static/uploads/",
+    "admin_user": "pardeep814611@gmail.com",
+    "admin_pass": "pardeep123"
+
+  }
+}
